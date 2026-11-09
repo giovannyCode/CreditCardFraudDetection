@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36908.2 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardFraudDetection", "CreditCardFraudDetection.csproj", "{98919AE8-DB02-44D9-AE1C-60FBD5FEAC0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FraudDetectionMLModel_ConsoleApp1", "..\FraudDetectionMLModel_ConsoleApp1\FraudDetectionMLModel_ConsoleApp1.csproj", "{7FE1A1C8-34EC-297E-9EDA-301A4C79CE10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FraudDetectionMLModel_ConsoleApp1", "FraudDetectionMLModel_ConsoleApp1\FraudDetectionMLModel_ConsoleApp1.csproj", "{87E9413E-6351-867A-32BF-FDD4C838AD78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{98919AE8-DB02-44D9-AE1C-60FBD5FEAC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98919AE8-DB02-44D9-AE1C-60FBD5FEAC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98919AE8-DB02-44D9-AE1C-60FBD5FEAC0D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7FE1A1C8-34EC-297E-9EDA-301A4C79CE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7FE1A1C8-34EC-297E-9EDA-301A4C79CE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7FE1A1C8-34EC-297E-9EDA-301A4C79CE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7FE1A1C8-34EC-297E-9EDA-301A4C79CE10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E9413E-6351-867A-32BF-FDD4C838AD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E9413E-6351-867A-32BF-FDD4C838AD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E9413E-6351-867A-32BF-FDD4C838AD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E9413E-6351-867A-32BF-FDD4C838AD78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
